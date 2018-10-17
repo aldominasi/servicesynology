@@ -1,0 +1,9 @@
+{
+  "id": "com.example.app.synoservice",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.example.app.synoservice"
+    }
+  ]
+}
